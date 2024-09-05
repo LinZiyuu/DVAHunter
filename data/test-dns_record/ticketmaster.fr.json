@@ -1,0 +1,63 @@
+{
+  "test.ticketmaster.fr": {
+    "ns": [],
+    "cname": [
+      "ticketmaster-intl.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.87"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: test.ticketmaster.fr. IN NS",
+    "ns_err": ""
+  },
+  "blog.ticketmaster.fr": {
+    "ns": [],
+    "cname": [
+      "wwk24cnl8s8s.wpeproxy.com."
+    ],
+    "A": [
+      "141.193.213.20",
+      "141.193.213.21"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: blog.ticketmaster.fr. IN NS",
+    "ns_err": ""
+  },
+  "ticketmaster.fr": {
+    "ns": [
+      "ns2.ticketmaster.com.",
+      "ns1.ticketmaster.com."
+    ],
+    "cname": [],
+    "A": [
+      "151.101.2.87",
+      "151.101.194.87",
+      "151.101.66.87",
+      "151.101.130.87"
+    ],
+    "cname_err": "",
+    "ns_err": ""
+  },
+  "www.ticketmaster.fr": {
+    "ns": [],
+    "cname": [
+      "ticketmaster9.map.fastly.net."
+    ],
+    "A": [
+      "199.232.45.237"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: www.ticketmaster.fr. IN NS",
+    "ns_err": ""
+  },
+  "help.ticketmaster.fr": {
+    "ns": [],
+    "cname": [
+      "ticketmaster-fr.zendesk.com."
+    ],
+    "A": [
+      "104.16.51.111",
+      "104.16.53.111"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: help.ticketmaster.fr. IN NS",
+    "ns_err": ""
+  }
+}

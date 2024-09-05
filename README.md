@@ -9,8 +9,11 @@
 <br>The Architecture of DVAHunter.
 </p>
 
-## Code: Coming Soon!
-We will release our code in the near future.
+## Full Code: Coming Soon!
+We will release our full code in the near future.
+
+## This is a demo Code
+This is a demo code, using only a few domains as a test.
 
 ## Installation
 
@@ -52,11 +55,11 @@ python3 src/domain_fronting_component/src/main.py -cdn "Alibaba Cloud" -dns "dat
 ```
 #### 3.2 Domain Borrwoing Finder
 ```
-python3 src/domain_borrowing_component/src/main.py -subdomain 'data/test-subdomain' -fqdn 'data/test-all_FQDN/test-subdomain.txt' -host 'data/test-all_FQDN/Fastly.json' -cdn 'Fastly' -cdn_ip 'data/test-cdn_ingress_ip' -g_cdn_ip 'data/test-cdn_ingress_ip_gourped_by_city' -db 'data/test-Domain_Borrowed'
+python3 src/domain_borrowing_component/src/main.py -subdomain 'data/test-subdomain' -fqdn 'data/test-all_FQDN/test-subdomain.txt' -host 'data/test-all_FQDN/Cachefly.json' -cdn 'Cachefly' -cdn_ip 'data/test-cdn_ingress_ip' -g_cdn_ip 'data/test-cdn_ingress_ip_gourped_by_city' -db 'data/test-Domain_Borrowed'
 ```
 #### 3.3 Domain Takeover Detector
 ```
-python3 src/domain_takeover_component/main.py -dns 'data/test-dns_record' -cdn_dns 'data/test-cdn_dns_record'
+python3 src/domain_takeover_component/subdomain_takeover.py -f 'data/test-cdn_dns_record' -o 'vulnerable_domains.json'
 ```
 
 

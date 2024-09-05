@@ -1,0 +1,28 @@
+{
+  "test.ticketmaster.fr": {
+    "method": "cname",
+    "cdn": "Fastly",
+    "ns": [],
+    "cname": [
+      "ticketmaster-intl.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.87"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: test.ticketmaster.fr. IN NS",
+    "ns_err": ""
+  },
+  "www.ticketmaster.fr": {
+    "method": "cname",
+    "cdn": "Fastly",
+    "ns": [],
+    "cname": [
+      "ticketmaster9.map.fastly.net."
+    ],
+    "A": [
+      "199.232.45.237"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: www.ticketmaster.fr. IN NS",
+    "ns_err": ""
+  }
+}

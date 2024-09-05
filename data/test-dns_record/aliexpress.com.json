@@ -1,0 +1,129 @@
+{
+  "www.aliexpress.com": {
+    "ns": [],
+    "cname": [
+      "www.aliexpress.com.gds.alibabadns.com.",
+      "global-sg-sec.aliexpress.com.",
+      "global-sg-sec.aliexpress.com.gds.alibabadns.com."
+    ],
+    "A": [
+      "47.246.173.30",
+      "47.246.174.14",
+      "47.246.173.237",
+      "47.246.174.180"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: www.aliexpress.com. IN NS",
+    "ns_err": ""
+  },
+  "forum.aliexpress.com": {
+    "ns": [],
+    "cname": [
+      "global-shopsite.aliexpress.com.",
+      "global-shopsite.aliexpress.com.gds.alibabadns.com.",
+      "eu.aserver-ae.aliexpress.com.",
+      "eu.aserver-ae.aliexpress.com.gds.alibabadns.com."
+    ],
+    "A": [
+      "47.246.146.200"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: forum.aliexpress.com. IN NS",
+    "ns_err": ""
+  },
+  "forums.aliexpress.com": {
+    "ns": [],
+    "cname": [
+      "global-shopsite.aliexpress.com.",
+      "global-shopsite.aliexpress.com.gds.alibabadns.com.",
+      "eu.aserver-ae.aliexpress.com.",
+      "eu.aserver-ae.aliexpress.com.gds.alibabadns.com."
+    ],
+    "A": [
+      "47.246.146.199"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: forums.aliexpress.com. IN NS",
+    "ns_err": ""
+  },
+  "email.aliexpress.com": {
+    "ns": [],
+    "cname": [
+      "global-shopsite.aliexpress.com.",
+      "global-shopsite.aliexpress.com.gds.alibabadns.com.",
+      "eu.aserver-ae.aliexpress.com.",
+      "eu.aserver-ae.aliexpress.com.gds.alibabadns.com."
+    ],
+    "A": [
+      "47.246.146.200"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: email.aliexpress.com. IN NS",
+    "ns_err": ""
+  },
+  "wiki.aliexpress.com": {
+    "ns": [],
+    "cname": [
+      "global-shopsite.aliexpress.com.",
+      "global-shopsite.aliexpress.com.gds.alibabadns.com.",
+      "eu.aserver-ae.aliexpress.com.",
+      "eu.aserver-ae.aliexpress.com.gds.alibabadns.com."
+    ],
+    "A": [
+      "47.246.146.200"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: wiki.aliexpress.com. IN NS",
+    "ns_err": ""
+  },
+  "api.aliexpress.com": {
+    "ns": [],
+    "cname": [
+      "global-shopsite.aliexpress.com.",
+      "global-shopsite.aliexpress.com.gds.alibabadns.com.",
+      "eu.aserver-ae.aliexpress.com.",
+      "eu.aserver-ae.aliexpress.com.gds.alibabadns.com."
+    ],
+    "A": [
+      "47.246.146.201"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: api.aliexpress.com. IN NS",
+    "ns_err": ""
+  },
+  "web.aliexpress.com": {
+    "ns": [],
+    "cname": [
+      "global-shopsite.aliexpress.com.",
+      "global-shopsite.aliexpress.com.gds.alibabadns.com.",
+      "eu.aserver-ae.aliexpress.com.",
+      "eu.aserver-ae.aliexpress.com.gds.alibabadns.com."
+    ],
+    "A": [
+      "47.246.146.200"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: web.aliexpress.com. IN NS",
+    "ns_err": ""
+  },
+  "bbs.aliexpress.com": {
+    "ns": [],
+    "cname": [
+      "global-shopsite.aliexpress.com.",
+      "global-shopsite.aliexpress.com.gds.alibabadns.com.",
+      "eu.aserver-ae.aliexpress.com.",
+      "eu.aserver-ae.aliexpress.com.gds.alibabadns.com."
+    ],
+    "A": [
+      "47.246.146.105"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: bbs.aliexpress.com. IN NS",
+    "ns_err": ""
+  },
+  "aliexpress.com": {
+    "ns": [
+      "ns2.alibabadns.com.",
+      "ns1.alibabadns.com."
+    ],
+    "cname": [],
+    "A": [
+      "47.246.173.237",
+      "47.246.173.30"
+    ],
+    "cname_err": "",
+    "ns_err": ""
+  }
+}

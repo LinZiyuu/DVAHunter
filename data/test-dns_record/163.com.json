@@ -1,0 +1,154 @@
+{
+  "mail.163.com": {
+    "ns": [],
+    "cname": [
+      "mail163.mail.ntes53.netease.com."
+    ],
+    "A": [
+      "103.129.252.87",
+      "103.129.252.59"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: mail.163.com. IN NS",
+    "ns_err": ""
+  },
+  "news.163.com": {
+    "ns": [],
+    "cname": [
+      "news.163.com.163jiasu.com.",
+      "news.163.com.w.kunluncan.com."
+    ],
+    "A": [
+      "163.181.81.233",
+      "163.181.81.235",
+      "163.181.81.236",
+      "163.181.81.232",
+      "163.181.81.237",
+      "163.181.81.238",
+      "163.181.81.234",
+      "163.181.81.231"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: news.163.com. IN NS",
+    "ns_err": ""
+  },
+  "www.163.com": {
+    "ns": [],
+    "cname": [
+      "www.163.com.163jiasu.com.",
+      "www.163.com.w.kunluncan.com."
+    ],
+    "A": [
+      "163.181.81.234",
+      "163.181.81.236",
+      "163.181.81.238",
+      "163.181.81.231",
+      "163.181.81.237",
+      "163.181.81.233",
+      "163.181.81.235",
+      "163.181.81.232"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: www.163.com. IN NS",
+    "ns_err": ""
+  },
+  "wiki.163.com": {
+    "ns": [],
+    "cname": [
+      "game-cache.nie.163.com."
+    ],
+    "A": [
+      "59.111.137.212",
+      "42.186.122.69"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: wiki.163.com. IN NS",
+    "ns_err": ""
+  },
+  "m.163.com": {
+    "ns": [],
+    "cname": [
+      "m.163.com.163jiasu.com.",
+      "m.163.com.w.cdngslb.com."
+    ],
+    "A": [
+      "61.170.80.226",
+      "180.163.145.205",
+      "180.163.145.206",
+      "180.163.207.107",
+      "61.170.81.234",
+      "222.73.33.234",
+      "180.163.207.108",
+      "101.226.28.240",
+      "61.170.81.235",
+      "222.73.33.235",
+      "61.170.81.236",
+      "61.170.80.228",
+      "61.170.80.227",
+      "180.163.148.198",
+      "101.226.26.146"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: m.163.com. IN NS",
+    "ns_err": ""
+  },
+  "hw.mail.163.com": {
+    "ns": [],
+    "cname": [],
+    "A": [
+      "103.129.252.87",
+      "103.129.252.59"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: hw.mail.163.com. IN NS",
+    "ns_err": ""
+  },
+  "email.163.com": {
+    "ns": [],
+    "cname": [
+      "email.163.com.163jiasu.com.",
+      "email.163.com.w.cdngslb.com."
+    ],
+    "A": [
+      "222.73.33.234",
+      "101.226.28.235",
+      "61.170.81.235",
+      "61.170.81.234",
+      "101.226.26.145",
+      "61.170.80.232",
+      "61.170.80.231",
+      "61.170.80.230",
+      "180.163.148.198",
+      "180.163.207.109",
+      "61.170.81.233",
+      "222.73.33.235",
+      "180.163.145.201",
+      "180.163.207.108",
+      "180.163.145.200"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: email.163.com. IN NS",
+    "ns_err": ""
+  },
+  "163.com": {
+    "ns": [
+      "ns4.nease.net.",
+      "ns3.nease.net.",
+      "ns1.nease.net.",
+      "ns2.166.com.",
+      "ns6.nease.net.",
+      "ns5.nease.net.",
+      "ns8.166.com."
+    ],
+    "cname": [],
+    "A": [
+      "59.111.160.244"
+    ],
+    "cname_err": "",
+    "ns_err": ""
+  },
+  "q.reg.163.com": {
+    "ns": [],
+    "cname": [
+      "cookie.reg.ntes53.netease.com."
+    ],
+    "A": [
+      "223.252.215.2"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: q.reg.163.com. IN NS",
+    "ns_err": ""
+  }
+}

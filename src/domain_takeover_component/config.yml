@@ -1,0 +1,5 @@
+tokens: 
+  - name: github
+    user: Github username
+    token: Github Token
+

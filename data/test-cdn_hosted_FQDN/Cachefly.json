@@ -1,0 +1,30 @@
+{
+  "Cachefly": [
+    "admin.serveteck.com",
+    "api.serveteck.com",
+    "wiki.serveteck.com",
+    "blog.serveteck.com",
+    "email.serveteck.com",
+    "web.serveteck.com",
+    "portal.serveteck.com",
+    "ftp.serveteck.com",
+    "test.serveteck.com",
+    "secure.serveteck.com",
+    "vpn.serveteck.com",
+    "webmail.serveteck.com",
+    "dev.serveteck.com",
+    "remote.serveteck.com",
+    "shop.serveteck.com",
+    "support.serveteck.com",
+    "mail.serveteck.com",
+    "forum.serveteck.com",
+    "www.serveteck.com",
+    "forums.serveteck.com",
+    "cdn.serveteck.com",
+    "community.serveteck.com",
+    "bbs.serveteck.com",
+    "cloud.serveteck.com",
+    "m.serveteck.com",
+    "news.serveteck.com"
+  ]
+}

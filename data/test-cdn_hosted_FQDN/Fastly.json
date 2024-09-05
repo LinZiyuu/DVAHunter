@@ -1,0 +1,32 @@
+{
+  "Fastly": [
+    "test.ticketmaster.fr",
+    "www.ticketmaster.fr",
+    "www.scribdassets.com",
+    "shop.scribdassets.com",
+    "news.scribdassets.com",
+    "mail.scribdassets.com",
+    "forum.scribdassets.com",
+    "community.scribdassets.com",
+    "api.scribdassets.com",
+    "cloud.scribdassets.com",
+    "web.scribdassets.com",
+    "test.scribdassets.com",
+    "vpn.scribdassets.com",
+    "m.scribdassets.com",
+    "bbs.scribdassets.com",
+    "forums.scribdassets.com",
+    "webmail.scribdassets.com",
+    "admin.scribdassets.com",
+    "dev.scribdassets.com",
+    "remote.scribdassets.com",
+    "support.scribdassets.com",
+    "portal.scribdassets.com",
+    "secure.scribdassets.com",
+    "cdn.scribdassets.com",
+    "blog.scribdassets.com",
+    "wiki.scribdassets.com",
+    "email.scribdassets.com",
+    "ftp.scribdassets.com"
+  ]
+}

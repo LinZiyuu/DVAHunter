@@ -1,0 +1,415 @@
+{
+  "admin.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: admin.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "api.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: api.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "wiki.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.152",
+      "204.93.150.153"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: wiki.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "blog.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: blog.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "email.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: email.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "web.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.152",
+      "204.93.150.153"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: web.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "portal.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: portal.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "ftp.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.152",
+      "204.93.150.153"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: ftp.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "test.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.154"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: test.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "secure.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: secure.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "vpn.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: vpn.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "webmail.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.152",
+      "204.93.150.153"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: webmail.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "dev.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: dev.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "remote.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.152",
+      "204.93.150.153"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: remote.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "shop.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: shop.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "support.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: support.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "mail.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: mail.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "forum.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.152",
+      "204.93.150.153"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: forum.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "www.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: www.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "forums.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.154"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: forums.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "cdn.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.152",
+      "204.93.150.153"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: cdn.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "community.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: community.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "bbs.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: bbs.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "cloud.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.153",
+      "204.93.150.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: cloud.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "m.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.152",
+      "204.93.150.153"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: m.serveteck.com. IN NS",
+    "ns_err": ""
+  },
+  "news.serveteck.com": {
+    "method": "cname",
+    "cdn": "Cachefly",
+    "ns": [],
+    "cname": [
+      "cdn.adk2.com.",
+      "cdnpeakmediame.cachefly.net.",
+      "rvip1.ap.cachefly.net."
+    ],
+    "A": [
+      "204.93.150.154"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: news.serveteck.com. IN NS",
+    "ns_err": ""
+  }
+}

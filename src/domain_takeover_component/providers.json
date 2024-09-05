@@ -1,0 +1,92 @@
+[
+
+    {
+        "name":"fastly",
+        "cname":["fastly.net",
+            ".fastlylb.net"],
+        "response":["Please check that this domain has been added to a service", "Fastly error: unknown domain"]
+    },
+    {
+        "name":"azure",
+        "cname":["azurewebsites.net",
+            ".cloudapp.net",
+            ".cloudapp.azure.com",
+            ".trafficmanager.net",
+            ".blob.core.windows.net",
+            ".azure-api.net",
+            ".azurehdinsight.net",
+            ".azureedge.net"],
+        "response":["404 Web Site not found","NXDOMAIN"]
+    },
+    {
+        "name":"cdnnetworks",
+        "cname":[".qtlgslb.com",
+            ".cdngc.net",
+            ".gccdn.net"],
+        "response":["NXDOMAIN"]
+    },
+    {
+        "name":"YunDun",
+        "cname":[".cname.hcnamedns.com"],
+        "response":["document.location='/host_not_found_error'"]
+    },
+    {
+        "name":"Cachefly",
+        "cname":[".cachefly.net"],
+        "response":["hostname not configured"]
+    },
+    {
+        "name":"Bunny",
+        "cname":[".b-cdn.net"],
+        "response":["Domain suspended or not configured"]
+    },
+    {
+        "name":"Edgio",
+        "cname":[".glb.edgio.net",
+            ".edgecastcdn.net"],
+        "response":["404 - Not Found"]
+    },
+    {
+        "name":"ChinaNetCenter/Wangsu",
+        "cname":[".lxdns.com",
+            ".qtlcdn.com",
+            ".cdn20.com",
+            ".cdn30.com",
+            "wscdns.com",
+            ".wswebcdn.com",
+            ".wtxcdn.com"],
+        "response":["NXDOMAIN"]
+    },
+    {
+        "name":"UCloud",
+        "cname":[".ucloud.com.cn"],
+        "response":["NXDOMAIN"]
+    }
+
+,
+
+    {
+        "name":"Netlify",
+        "cname":[".netlify.com",
+            ".netlifyglobalcdn.com",
+            ".netlify.app"],
+        "response":["Not Found - Request ID"]
+    },
+    {
+        "name":"LightCDN",
+        "cname":[".cdn36.com"],
+        "response":["NXDOMAIN"]
+    },
+     {
+        "name":"Cloudflare",
+        "cname":[".cdn.cloudflare.net"],
+        "response":["Cloudflare is currently unable to resolve your requested domain","DNS resolution error","Error 1001"]
+    },
+    {
+        "name":"Kuocaiyun",
+        "cname":[".kuocaidns.com",".volcgslb.com"],
+        "response":["NXDOMAIN"]
+    }
+
+]
+

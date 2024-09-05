@@ -1,0 +1,288 @@
+{
+  "www.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: www.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "shop.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: shop.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "news.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: news.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "mail.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: mail.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "forum.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: forum.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "community.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: community.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "api.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: api.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "cloud.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: cloud.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "web.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: web.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "test.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: test.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "vpn.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: vpn.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "m.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: m.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "bbs.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: bbs.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "forums.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: forums.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "webmail.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: webmail.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "admin.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: admin.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "dev.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: dev.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "remote.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: remote.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "support.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: support.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "portal.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: portal.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "secure.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: secure.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "cdn.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: cdn.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "blog.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: blog.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "wiki.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: wiki.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "email.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: email.scribdassets.com. IN NS",
+    "ns_err": ""
+  },
+  "ftp.scribdassets.com": {
+    "ns": [],
+    "cname": [
+      "scribd.map.fastly.net."
+    ],
+    "A": [
+      "199.232.46.152"
+    ],
+    "cname_err": "The DNS response does not contain an answer to the question: ftp.scribdassets.com. IN NS",
+    "ns_err": ""
+  }
+}
