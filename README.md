@@ -62,7 +62,111 @@ python3 src/domain_borrowing_component/src/main.py -subdomain 'data/test-subdoma
 python3 src/domain_takeover_component/subdomain_takeover.py -f 'data/test-cdn_dns_record' -o 'vulnerable_domains.json'
 ```
 
+## Domain Borrowing Fingerprint
 
+
+| CDN Providers  | Status | Domains | Fingerprint|
+
+
+| Azion| Vulnerable     | 🟩                | .map.azionedge.net | Not Found|
+
+| Bunny| Vulnerable     | 🟩                | .b-cdn.net | Domain suspended or not configured|
+
+| Cachefly| Vulnerable     | 🟩                | .cachefly.net  | hostname not configured|
+
+| CDN77| Vulnerable     | 🟩                | .cachefly.net  | N/A|
+
+| CDNetworks| Vulnerable     | 🟩                | .qtlgslb.com | N/A|
+
+| CDNsun| Vulnerable     | 🟩                | .cdnsun.net | 400 Bad Request|
+
+| ChinaNetCenter| Vulnerable     | 🟩                | .qtlcdn.com | N/A|
+
+| CloudFront| Vulnerable     | 🟩                | .cdn.cloudflare.net | The request could not be satisfied|
+
+| ChinaNetCenter| Vulnerable     | 🟩                | .qtlcdn.com | N/A|
+
+| DogeCloud| Vulnerable     | 🟩                | .s2-web.dogedns.com | X-Cache-Lookup: Return Directly|
+
+| EdgeNext| Vulnerable     | 🟩                | .bsclink.cn |  ERROR: ACCESS DENIED|
+
+| Edgio| Vulnerable     | 🟩                | .glb.edgio.net |  404 - Not Found|
+
+| Fastly| Vulnerable     | 🟩                | .fastly.net |  Fastly error: unknown domain|
+
+| Goooood| Vulnerable     | 🟩                | .prod.defense-dns.net |  /unkonwdomain404/notfound|
+
+| KeyCDN| Vulnerable     | 🟩                | .kxcdn.com |  the resource has been deniedn|
+
+| KuoCai| Not vulnerable | 🟥                | .kuocaidns.com |   Byte-Error-Code: 0060|
+
+| Layun| Vulnerable     | 🟩                | .yuncdn.layuncdn.com |  Error in website request|
+
+| LightCDN| Vulnerable     | 🟩                  | .r.cdn36.com |  NXDOMAIN|
+
+| Medianova| Vulnerable     | 🟩                | .mncdn.com | N/A|
+
+| Netlify| Vulnerable     | 🟩                | netlify.app |   Not Found - Request ID|
+
+| StackPath| Not vulnerable | 🟥                | .stackpathcdn.com |   N/A|
+
+| Sudun| Vulnerable     | 🟩                | .sudun1.suduncdn.com |   Please use the domain to access|
+
+| Ucloud| Vulnerable     | 🟩                | .ucloud.com.cn |    ERROR: ACCESS DENIED|
+
+| Udomain| Vulnerable     | 🟩                | .xcdn.global |    ERROR: ACCESS DENIED|
+
+| Yundun| Vulnerable     | 🟩                 | cname.hcnamedns.com |  N/A|
+
+
+## Domain Takeover Fingerprint
+<!--FINGERPRINTS-->
+
+| CDN Providers  | Status | Domains | Fingerprint|
+
+
+| Azure| Not vulnerable | 🟥                | .azureedge.net | NXDOMAIN|
+
+| Bunny| Vulnerable     | 🟩                | .b-cdn.net | Domain suspended or not configured|
+
+| Cachefly| Vulnerable     | 🟩                | .cachefly.net  | hostname not configured|
+
+| CDNetworks| Vulnerable     | 🟩                | .qtlgslb.com | NXDOMAIN|
+
+| ChinaNetCenter| Vulnerable     | 🟩                | .qtlcdn.com | NXDOMAIN|
+
+| Cloudflare| Vulnerable     | 🟩                | .cdn.cloudflare.net | Cloudflare is currently unable to resolve your requested domain|
+
+| DogeCloud| Vulnerable     | 🟩                | .s2-web.dogedns.com | X-Cache-Lookup: Return Directly|
+
+| EdgeNext| Vulnerable     | 🟩                | .bsclink.cn |  only have one A record|
+
+| Edgio| VNot vulnerable | 🟥                | .glb.edgio.net |  404 - Not Found|
+
+| Fastly| Vulnerable     | 🟩                | .fastly.net |  Fastly error: unknown domain|
+
+| G-core| Not vulnerable | 🟥                | .d.gcdn.co |  SERVFAIL|
+
+| KuaikuaiCloud| Not vulnerable | 🟥                | .bdydns.com |  127.0.0.1|
+
+| KuoCai| Not vulnerable | 🟥                | .kuocaidns.com |   NXDOMAIN|
+
+| Layun| Vulnerable     | 🟩                | .yuncdn.layuncdn.com |  Error in website request|
+
+| LightCDN| Not vulnerable | 🟥                 | .r.cdn36.com |  NXDOMAIN|
+
+| Netlify| Vulnerable     | 🟩                | netlify.app |   Not Found - Request ID|
+
+| Sudun| Vulnerable     | 🟩                | .sudun1.suduncdn.com |   Please use the domain to access|
+
+| Ucloud| Vulnerable     | 🟩                | .ucloud.com.cn |   NXDOMAIN|
+
+
+| Yundun| Not vulnerable | 🟥                | cname.hcnamedns.com |  NXDOMAIN|
+
+
+
+<!--FINGERPRINTS-->
 ## License
 
 DVAHunter is a free software and licensed under the [MIT license](/LICENSE).
