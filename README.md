@@ -35,8 +35,16 @@ pip3 install -r requirements.txt
 #### 1.1 Enmuate the FQDNs of target SLDs.
 To run the Subdomain crawler, execute the following command in your terminal:
 ```
-go run cmd/subdomain-crawler/main.go -i test_sld.txt -o test-subdomain
+go run src/Subdomain-Crawler/cmd/subdomain-crawler/main.go -i data/test_sld.txt -o data/test-subdomain-1
 ```
+```
+python3 src/Subdomain-Crawler/CT-Crawler.py -i data/test_sld.txt -o data/test-subdomain-2
+```
+#### 1.2 Process the FQDNs of target SLDs.
+```
+python3 src/Subdomain-Crawler/merge.py -sld1 data/test-subdomain-1 -sld2 data/test-subdomain-2 -sld data/test-subdomain
+```
+
 ### 2. CDN Checker
 #### 2.1 Collect the DNS records of FQDNs
 To run the DAHunter, execute the following command in your terminal:
