@@ -32,7 +32,6 @@ def main():
 
     args = parse_args()
 
-    output_folder = args.output_floder
     folder1 = args.sld1_floder
     folder2 = args.sld2_floder
     output_folder = args.sld_floder

@@ -35,9 +35,11 @@ pip3 install -r requirements.txt
 #### 1.1 Enmuate the FQDNs of target SLDs.
 To run the Subdomain crawler, execute the following command in your terminal:
 ```
-go run src/Subdomain-Crawler/cmd/subdomain-crawler/main.go -i data/test_sld.txt -o data/test-subdomain-1
+cd src/Subdomain-Crawler
+go run cmd/subdomain-crawler/main.go -i ../../data/test_sld.txt -o ../../data/test-subdomain-1
 ```
 ```
+cd ../../
 python3 src/Subdomain-Crawler/CT-Crawler.py -i data/test_sld.txt -o data/test-subdomain-2
 ```
 #### 1.2 Process the FQDNs of target SLDs.
